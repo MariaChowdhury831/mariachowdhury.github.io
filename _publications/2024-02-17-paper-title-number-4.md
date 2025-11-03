@@ -1,5 +1,6 @@
 ---
-title: "Large Ensemble of Transfer-Learned Models for Plant Disease Recognition from Diverse Leaf Images" collection: publications
+title: "Large Ensemble of Transfer-Learned Models for Plant Disease Recognition from Diverse Leaf Images"
+collection: publications
 category: conferences
 permalink: /publication/2023-02-23-leukemia-subtypes
 date: 2023-10-23
