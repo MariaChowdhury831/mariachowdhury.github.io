@@ -1,6 +1,6 @@
 
 
-{% comment %}
+
 ---
 layout: archive
 title: "CV"
@@ -9,8 +9,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[view my CV (pdf)](_pages/CV_Maria.pdf)
 
 {% include base_path %}
+
+{% comment %}
+
 
 Education
 ======
