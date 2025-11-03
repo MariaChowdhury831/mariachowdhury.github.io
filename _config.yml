@@ -23,12 +23,12 @@ repository               : "MariaChowdhury831/practice.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic.png"
+  avatar           : "profile.png"
   name             : "Maria Chowdhury"
   pronouns         : # example: "she/her"  
   bio              : "Prospective PhD student"
   location         : #"Earth"
-  employer         : "Rajshahi University Of Engineering & Technology"
+  employer         : "RUET"
   uri              : # URL
   email            : "mariachowdhury831@gmail.com" 
 
