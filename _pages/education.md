@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Education
+
 
 **Rajshahi University of Engineering and Technology (RUET)**  
 B.Sc. in Computer Science and Engineering (January 2018 – September 2023)
