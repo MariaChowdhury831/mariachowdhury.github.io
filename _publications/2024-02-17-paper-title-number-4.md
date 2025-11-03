@@ -1,14 +1,13 @@
+
 ---
-title: "Paper Title Number 4"
+title: "Recognition of leukemia sub-types using transfer learning and extraction of distinguishable features using an effective machine learning approach"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2023-02-23-Recognition of leukemia sub-types using transfer learning and extraction of distinguishable features using an effective machine learning approach
+date: 2023-02-23
+venue: '2023 international conference on electrical, computer and communication engineering (ECCE)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10101490'
+citations: Tahsen Islam Sajon, **Maria Chowdhury**, Azmain Yakin Srizon, Md Farukuzzaman Faruk, SM Mahedy Hasan, Abu Sayeed, AFM Minhazur Rahman
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
-
+This study examines automated leukemia subtype detection from blood smear images through transfer learning with CNN models like DenseNet201, EfficientNetB6, and Xception, reaching 99.69% accuracy, while also comparing traditional feature extraction techniques, including Hu Moments and Haralick Texture, paired with various classifiers. Our results show that deep learning substantially outperforms conventional methods, providing a pathway for more accurate and earlier leukemia diagnosis to improve patient treatment outcomes.
