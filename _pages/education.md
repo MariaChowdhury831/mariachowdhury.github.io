@@ -1,7 +1,7 @@
 ---
 title: Education
 permalink: /education/
-layout: default
+layout: archive
 author_profile: true
 ---
 
