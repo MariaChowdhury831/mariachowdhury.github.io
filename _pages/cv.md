@@ -13,6 +13,7 @@ redirect_from:
 
 You can view my CV in PDF format below:
 
-[my CV (pdf)](_pages/CV_Maria.pdf)
+[View my CV (PDF)]({{ site.baseurl }}/files/CV_Maria.pdf)
+
 
 
