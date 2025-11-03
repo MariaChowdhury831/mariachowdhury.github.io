@@ -22,5 +22,5 @@ Research Interest
 - Ethics, privacy
 
 
-
+[view my CV (pdf)](_pages/CV_Maria.pdf)
 
