@@ -14,8 +14,6 @@ author_profile: true
   </div>
 {% endif %}
 
-
-
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
@@ -36,9 +34,5 @@ author_profile: true
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single-full.html %}
-
   {% endfor %}
 {% endif %}
-
-
-
