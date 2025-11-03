@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2023-02-23-leukemia-subtypes
 date: 2023-02-23
 venue: "2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)"
-authors: "Tahsen Islam Sajon, **Maria Chowdhury**, Azmain Yakin Srizon, Md Farukuzzaman Faruk, SM Mahedy Hasan, Abu Sayeed, AFM Minhazur Rahman"
+authors: "Tahsen Islam Sajon, Maria Chowdhury, Azmain Yakin Srizon, Md Farukuzzaman Faruk, SM Mahedy Hasan, Abu Sayeed, AFM Minhazur Rahman"
 ---
 
 
