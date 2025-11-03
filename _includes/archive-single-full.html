@@ -1,27 +1,25 @@
-<div class="publication-item">
-  <h3>
+<article class="publication">
+  <h2>
     {% if post.paperurl %}
-      <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+      <a href="{{ post.paperurl }}">{{ post.title }}</a>
     {% else %}
       {{ post.title }}
     {% endif %}
-  </h3>
+  </h2>
 
-  {% if post.authors %}
-    <p><strong>Authors:</strong> {{ post.authors }}</p>
-  {% endif %}
+  <p><strong>{{ post.authors }}</strong></p>
 
   {% if post.venue %}
-    <p><strong>Venue:</strong> {{ post.venue }}</p>
+    <p><em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}</p>
   {% endif %}
 
-  {% if post.bookchapter %}
-    <p><strong>Book Chapter:</strong> {{ post.bookchapter }}</p>
+  {% if post.excerpt %}
+    <p>{{ post.excerpt }}</p>
   {% endif %}
 
-  {% if post.abstract %}
-    <p>{{ post.abstract }}</p>
+  {% if post.paperurl %}
+    <p><a href="{{ post.paperurl }}" target="_blank">Read more →</a></p>
   {% endif %}
-</div>
-<hr />
 
+  <hr />
+</article>
