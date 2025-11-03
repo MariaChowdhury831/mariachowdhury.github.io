@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Recognition of leukemia sub-types using transfer learning and extraction of distinguishable features using an effective machine learning approach"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2023-02-23-leukemia-subtypes
+date: 2023-02-23
+venue: "2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)"
+paperurl: "https://ieeexplore.ieee.org/abstract/document/10101490"
+citation: "Tahsen Islam Sajon, **Maria Chowdhury**, Azmain Yakin Srizon, Md Farukuzzaman Faruk, SM Mahedy Hasan, Abu Sayeed, AFM Minhazur Rahman"
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
-
+This study examines automated leukemia subtype detection from blood smear images through transfer learning with CNN models like DenseNet201, EfficientNetB6, and Xception, reaching 99.69% accuracy, while also comparing traditional feature extraction techniques, including Hu Moments and Haralick Texture, paired with various classifiers. Our results show that deep learning substantially outperforms conventional methods, providing a pathway for more accurate and earlier leukemia diagnosis to improve patient treatment outcomes.
