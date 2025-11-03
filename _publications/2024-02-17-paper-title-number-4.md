@@ -1,9 +1,9 @@
 ---
-layout: Archive
+layout: archive
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
-
 
 
 **Title**: "Recognition of Leukemia Sub‑types Using Transfer Learning and Extraction of Distinguishable Features Using an Effective Machine Learning Approach"
